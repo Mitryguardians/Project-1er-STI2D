@@ -1,7 +1,7 @@
 # Projet de 1er STI2D.
 
 
-##générer l'app
+#générer l'app
 
 Si vous générez l'application, vous trouverez l'APK dans ce chemin :
 
