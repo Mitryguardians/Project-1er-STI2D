@@ -18,3 +18,5 @@ Si cela ne fonctionne pas, utilisez votre téléphone comme émulateur et exécu
 
 
 
+Attention:
+Les fichiers config de google Firebase on été suprimer donc vous devrez configurer un projet google firebase pour pouvoir utiliser le sys de bdd, Normalement vous n'aurez pas besoin de crée les Tables de la BDD, il vont se crée tout seul a l'inscription d'un utilisateur !!
